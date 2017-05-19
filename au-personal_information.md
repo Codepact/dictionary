@@ -2,7 +2,7 @@
 
 In the context of Australian privacy law, personal information is any information or opinion about:
 - an identified individual; or
-- an individual who is reasonably identifiable (from the infromation).
+- an individual who is reasonably identifiable (from the information).
 
 Examples include an individual’s name, signature, address, telephone number, date of birth, medical records, bank account details, employment details and commentary or opinion about a person.
 
