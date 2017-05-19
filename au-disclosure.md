@@ -1,8 +1,5 @@
 # AU Disclosure
 
-`verb` disclose
-`noun` disclosure
-
 In Australian privacy law, disclosure happens when you do any of the following with personal information:
 - share it;
 - publish it;
