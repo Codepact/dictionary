@@ -24,20 +24,9 @@ The statement typically contains links to the privacy policy and terms of use.
 
 **Best practice**
 
-Best practice is to have a notification statement like the following, AND the clickbox statement.
+Best practice is to have a notification statement containing more details about how you collect, use, and disclose personal infromation.
 
->*[Insert business name] collects the personal information that you provide to us. This includes: [describe instances when individuals give personal information to the provider]. We collect the following kinds of sensitive information:
->[insert list of sensitive information collected].
-
->We collect this information in order to be able to provide our services to you, and to inform you about them. [Add information about main uses or disclosures].
-
->We are not required by law to collect this information, but without it, we cannot provide our services. Our handling of personal information may involve storage and processing of data overseas.  For more about:
->- the information we collect;
->- how me manage and disclose it[, including overseas data management; and
->- who to contact if you have questions or complaints regarding privacy,
->please see our __privacy policy__ [insert privacy policy link or url].*
-
->*I agree to the __terms and conditions__ and the __privacy policy__.* [Put a checkbox here]
+See the Codepact templates page for an example notification statement.
 
 ### More information
 
