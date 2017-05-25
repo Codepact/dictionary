@@ -9,7 +9,7 @@ This can be done with a notification statement.
 ### Where to put a notification statement?
 
 Notification statements may appear:
-- as a popup when people navigate to the entity's website or app; and/or
+- as a popup when people navigate to a website or app; and/or
 - at the end of online forms where individuals enter personal information like names, email addresses, and payment information.
 
 ### What should a notification statement look like?
