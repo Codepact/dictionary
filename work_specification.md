@@ -6,7 +6,7 @@ A work specification may also be set out in an order or order form.
 
 Whatever form a work specifiation takes, it usually works together with a set of terms and conditions set out in an agreement, like our Simple Services Agreement. The work specification deals with the practical details of the work, and sometimes things like payment terms and expenses policies. The terms and conditions deal with legal issues like indmenities and claim limits.
 
-Here's an example of how the two would work together. The agreement would have a clause which says:
+Here's an example of how the two would work together on the topic of payment calculation. The agreement would have a 'Payment Calculation' clause which cross references the work specification, such as this (taken from our Technology Services Agreement):
 
 >The fees payable to Provider in exchange for the Services will be calculated at the rate or rates set out in the Work Specification.
 
