@@ -13,9 +13,9 @@ Here's an example of how the two would work together. The agreement would have a
 The work specification would then set out payment rates, for example in a table like this:
 
 >| Worktype     |  Rate (per day) |
-|--------------|-----------------|
-| Design       | $500            |
-| Delivery     | $300            |
-| Construction | $400            |
+>|--------------|-----------------|
+>| Design       | $500            |
+>| Delivery     | $300            |
+>| Construction | $400            |
 
 
