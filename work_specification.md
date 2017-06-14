@@ -12,10 +12,9 @@ Here's an example of how the two would work together on the topic of payment cal
 
 The work specification would then set out payment rates, for example in a table like this:
 
->| Work type    |  Rate (per day) |
->|--------------|-----------------|
->| Design       | $500            |
->| Delivery     | $300            |
->| Construction | $400            |
-
+>|  Work type      |  Rate (per day) |
+>|-----------------|-----------------|
+>| UX Design       | $400            |
+>| Software design | $600            |
+>| Web design      | $300            |
 
