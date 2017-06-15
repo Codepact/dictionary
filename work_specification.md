@@ -19,7 +19,7 @@ Here's an example of how an agreement and work specification would work together
 
 The agreement would have a 'Payment Calculation' clause which refers to the work specification:
 
->The fees payable to Provider in exchange for the Services will be calculated at the rate or rates set out in the Work Specification.
+> The fees payable to Provider in exchange for the Services will be calculated at the rate or rates set out in the Work Specification.
 
 The work specification document would then set out payment rates, for example in a table like this:
 
