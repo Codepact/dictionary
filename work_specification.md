@@ -8,10 +8,10 @@ In a _Software Development Agreement_, the work specification might describe the
 
 A work specification becomes part of an agreement when the agreement refers to it for information.
 
-You will often encounter documentation where the "separation of concerns" is:
+Often, the "separation of concerns" between an agreement and work specification is:
 
-- commercial detail (payment amounts, technical specifications of services etc) is described in the work specification; and
-- legal concepts like claim limits and indemnities that form part of the deal are handled in the agreement.
+- the work specification deals with commercial detail (payment amounts, technical specifications of services etc); and
+- the agreement deals with legal concepts like claim limits and indemnities that form part of the deal.
 
 **Work specification example**
 
