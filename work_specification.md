@@ -1,16 +1,27 @@
 # Work Specification
 
-A work specification is a document or set of documents that describes work that will be performed under a contract. It is sometimes called a **Work Scope** or **Statement of Work**.
+A work specification is a document that describes the work that will be performed under a contract. It is sometimes called a _Work Scope_ or _Statement of Work_.  
 
-A work specification may also be set out in an order or order form.
+In a _Software Development Agreement_, the work specification might describe the functionality of the application that the developer will deliver to the customer.
 
-Whatever form a work specifiation takes, it usually works together with a set of terms and conditions set out in an agreement, like our Simple Services Agreement. The work specification deals with the practical details of the work, and sometimes things like payment terms and expenses policies. The terms and conditions deal with legal issues like indmenities and claim limits.
+**How it works**
 
-Here's an example of how the two would work together on the topic of payment calculation. The agreement would have a 'Payment Calculation' clause which cross references the work specification, such as this (taken from our Technology Services Agreement):
+A work specification becomes part of an agreement when the agreement refers to it for information.
 
->The fees payable to Provider in exchange for the Services will be calculated at the rate or rates set out in the Work Specification.
+Often, the "separation of concerns" between an agreement and work specification is:
 
-The work specification would then set out payment rates, for example in a table like this:
+- the work specification deals with commercial detail (payment amounts, technical specifications of services etc); and
+- the agreement deals with legal concepts like claim limits and indemnities that form part of the deal.
+
+**Work specification example**
+
+Here's an example of how an agreement and work specification would work together on the topic of payment. 
+
+The agreement would have a 'Payment Calculation' clause which refers to the work specification:
+
+> The fees payable to Provider in exchange for the Services will be calculated at the rate or rates set out in the Work Specification.
+
+The work specification document would then set out payment rates, for example in a table like this:
 
 >|  Work type      |  Rate (per day) |
 >|-----------------|-----------------|
