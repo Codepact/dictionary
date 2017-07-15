@@ -1,4 +1,4 @@
-# AU Notification statement
+# AU Privacy notification statement
 
 ### What is a notification statement?
 
