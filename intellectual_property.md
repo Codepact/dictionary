@@ -15,6 +15,3 @@
 
 When Pat writes the code for Alice's website, there are legal rights that regulate who gets to use that code.  These are the rights called "intellecutal property".  Alice and Pat need to have an agreement that outlines who owns the intellectual property in the code.
 
-### Example 2
-
-[insert example]
