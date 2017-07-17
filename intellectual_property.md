@@ -6,7 +6,7 @@
 
 ### Definition
 
-**Intellectual property** is how lawyers describe rights over things (like music, newspaper articles, code or inventions) that a human mind creates.  The word "property" is used because ideas can be owned in the same way that other property is owned.
+**Intellectual property** is how lawyers describe rights over things (like music, newspaper articles, code or inventions) that a human mind creates.  The word "property" is used because these creations can be owned in the same way that other property is owned.
 
 ### Example 1
 
