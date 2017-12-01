@@ -1,7 +1,8 @@
 # Service Level Agreement
 
-A _Service Level Agreement_, also known as an "SLA", usually covers two topics:
+A _Service Level Agreement_, also known as an "SLA", usually covers three topics:
 
+- response and resolution times for support and maintenance requests;
 - the "uptime" that a service provider will provide; and
 - how the provider will compensate users / customers if it fails to provide that uptime.
 
